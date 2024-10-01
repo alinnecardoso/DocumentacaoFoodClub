@@ -6,7 +6,7 @@
 
 O projeto visa criar uma plataforma que facilite a comunicação entre restaurantes, pequenas e médias empresas.
 
-### ** 🎯 Objetivo**
+### 🎯 **Objetivo**
 
 
 Criar uma plataforma que facilite a comunicação entre restaurantes e empresas, permitindo que donos de empresas e funcionários escolham facilmente onde desejam pedir o almoço.

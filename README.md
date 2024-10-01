@@ -2,7 +2,7 @@
 
 ### [Sobre](#sobre) | [Backlogs & User Stories](#backlogs-user-stories) | [Protótipo & Documentação](#prototipo-documentacao) | [Links Uteis](#links-uteis) | [Tecnologias](#tecnologias-utilizadas) | [Equipe](#equipe)
 
-### 📑 Sobre
+## 📑 Sobre
 
 O projeto visa criar uma plataforma que facilite a comunicação entre restaurantes, pequenas e médias empresas. A ideia é permitir que os donos das empresas e seus funcionários escolham facilmente onde desejam pedir o almoço. A plataforma propõe uma “lista de chamada” para que os funcionários possam selecionar suas opções diretamente do menu do restaurante escolhido. Além disso, as empresas terão a opção de fechar prazos maiores com o mesmo restaurante, garantindo preços melhores.
 
@@ -12,9 +12,9 @@ Devido a observação de um dos membros da nossa equipe que enfrenta dificuldade
 
 A partir desta ideia, o aplicativo utiliza de uma API desenvolvida para cadastrar produtos, funcionários, empresas, e restaurantes sendo permitida a consulta, inclusão, mudança e exclusão de cada um.
 
-#### 📌 Status do Projeto: ✔️ Concluído
+### 📌 Status do Projeto: ⏳ Em Andamento
 
-### 🏁 Entregas de Sprints
+## 🏁 Entregas de Sprints
 
 | Sprint | Previsão | Status | Histórico |
 | --- | --- | --- | --- |
@@ -22,7 +22,7 @@ A partir desta ideia, o aplicativo utiliza de uma API desenvolvida para cadastra
 | 02 | 23/10/2024 | Concluído | ver relatório |
 | 03 | 27/10/2024 | Concluído | ver relatório |
 
-### 🎬 Apresentação Final
+## 🎬 Apresentação Final
 Confira a seguir uma demonstração das funcionalidades para cada tipo de usuário do sistema:
 <details>
   <summary>Empresa</summary>
@@ -37,31 +37,31 @@ Confira a seguir uma demonstração das funcionalidades para cada tipo de usuár
   Tela do Funcionário
 </details>
 
-### 👷 Backlogs & User Stories
+## 👷 Backlogs & User Stories
 
-### Protótipo e Documentação
+## Protótipo e Documentação
 
-#### 🏠 Protótipo
+### 🏠 Protótipo
 
 Com base nos dados coletados em pesquisas, foi possível montar um protótipo de alta fidelidade com o uso da ferramenta Figma. Esta ferramenta possibilitou uma visualização prévia do front-end do projeto, o suficiente para obter o alinhamento entre a equipe de desenvolvimento e o cliente. Desta forma, o projeto prototipado possui algumas funções básicas de acesso a telas e respostas a cliques em botões, posteriormente sendo funcionalidades aplicadas na própria aplicação. O acesso ao protótipo pode ser feito aqui
 
-#### 📄 Documentação
+### 📄 Documentação
 
 As documentações deste projeto possuem mais detalhes do planejamento e da arquitetura do software. Elas podem ser acessadas pelos links: [Documentação do projeto](#) E [Documentação ihc](#).
 
-### Links Uteis
+## Links Uteis
 
 * [Link do sistema funcional](#)
 * [Repositório do projeto](#)
 
-### 🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,ts,react,prisma,nodejs,mongodb,figma" />
   </a>
 </p>
 
-### 👥 Equipe
+## 👥 Equipe
 
 | Função | Nome | GitHub |
 | --- | --- | --- |
@@ -71,6 +71,6 @@ As documentações deste projeto possuem mais detalhes do planejamento e da arqu
 | | Pietro Adrian R. Da Silva | [![GitHub Badge](https://img.shields.io/badge/-Pietro-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/pietro-adrian)](https://github.com/pietro-adrian) |
 | | Rafael Martins Cardoso | [![GitHub Badge](https://img.shields.io/badge/-Rafael-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/rafael-martins)](https://github.com/rafacardoso17) |
 
-### 🪪 Licença
+## 🪪 Licença
 
 The MIT License (MIT) 2024

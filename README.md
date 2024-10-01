@@ -1,4 +1,4 @@
-# Projeto de Compras
+# Projeto Integrador FoodClub
 
 ### [Sobre](#-Sobre) | [Backlogs & User Stories](#-backlogs--user-stories) | [Protótipo & Documentação](#protótipo-e-documentação) | [Links Uteis](#links-uteis) | [Tecnologias](#%EF%B8%8F-tecnologias-utilizadas) | [Equipe](#-equipe)
 

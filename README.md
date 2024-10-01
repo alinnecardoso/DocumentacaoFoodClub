@@ -1,6 +1,6 @@
 # Projeto de Compras
 
-### [📑 Sobre](#Sobre) | [Backlogs & User Stories](#backlogs-user-stories) | [Protótipo & Documentação](#prototipo-documentacao) | [Links Uteis](#links-uteis) | [Tecnologias](#tecnologias-utilizadas) | [Equipe](#equipe)
+### [Sobre](#-Sobre) | [Backlogs & User Stories](#-backlogs-user-stories) | [Protótipo & Documentação](#-prototipo-documentacao) | [Links Uteis](#links-uteis) | [Tecnologias](#-tecnologias-utilizadas) | [Equipe](#-equipe)
 
 ## 📑 Sobre
 

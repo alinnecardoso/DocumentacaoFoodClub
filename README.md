@@ -23,7 +23,7 @@ Criar uma plataforma que facilite a comunicação entre restaurantes e empresas,
 * **Visibilidade para Restaurantes**: Plataforma serve como vitrine online para restaurantes expandirem sua base de clientes.
 
  
-### 🧰**Recursos**
+### 🧰 **Recursos**
 
 
 * **Lista de Chamada**: Lista de chamada para seleção de opções do menu do restaurante escolhido.
@@ -77,10 +77,11 @@ Com base nos dados coletados em pesquisas, foi possível montar um protótipo de
 
 As documentações deste projeto possuem mais detalhes do planejamento e da arquitetura do software. Elas podem ser acessadas pelos links: [Documentação do projeto](#) E [Documentação ihc](#).
 
-## Links Uteis
+> ## Links Uteis
+> * [Link do sistema funcional](#)
+> * [Repositório do projeto](#)
 
-* [Link do sistema funcional](#)
-* [Repositório do projeto](#)
+
 
 ## 🛠️ Tecnologias Utilizadas
 <p align="center">

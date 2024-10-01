@@ -65,11 +65,11 @@ As documentações deste projeto possuem mais detalhes do planejamento e da arqu
 
 | Função | Nome | GitHub |
 | --- | --- | --- |
-|  | Alinne Martins Cardoso | [![GitHub Badge](https://img.shields.io/badge/-Alinne?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/alinne-martins)](https://github.com/alinnecardoso) |
-|  | Bruno Henrique Pasqual | [![GitHub Badge](https://img.shields.io/badge/-Bruno?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/bruno-pasqual)](https://github.com/Bruno-Pasqual) |
-| | Maycon Sanches B. de Moura | [![GitHub Badge](https://img.shields.io/badge/-Maycon?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/maycon-moura)](https://github.com/MayconBasilio) |
-| | Pietro Adrian R. Da Silva | [![GitHub Badge](https://img.shields.io/badge/-Pietro?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/pietro-adrian)](https://github.com/pietro-adrian) |
-| | Rafael Martins Cardoso | [![GitHub Badge](https://img.shields.io/badge/-Rafael?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/rafael-martins)](https://github.com/rafacardoso17) |
+|  | Alinne Martins Cardoso | [![GitHub Badge](https://img.shields.io/badge/-Alinne-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/alinne-martins)](https://github.com/alinnecardoso) |
+|  | Bruno Henrique Pasqual | [![GitHub Badge](https://img.shields.io/badge/-Bruno-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/bruno-pasqual)](https://github.com/Bruno-Pasqual) |
+| | Maycon Sanches B. de Moura | [![GitHub Badge](https://img.shields.io/badge/-Maycon-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/maycon-moura)](https://github.com/MayconBasilio) |
+| | Pietro Adrian R. Da Silva | [![GitHub Badge](https://img.shields.io/badge/-Pietro-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/pietro-adrian)](https://github.com/pietro-adrian) |
+| | Rafael Martins Cardoso | [![GitHub Badge](https://img.shields.io/badge/-Rafael-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/rafael-martins)](https://github.com/rafacardoso17) |
 
 ### 🪪 Licença
 

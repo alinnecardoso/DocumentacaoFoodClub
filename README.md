@@ -4,11 +4,7 @@
 
 ## 📑 Sobre
 
-### **Dor do Usuário**
-
-
-Um membro da nossa equipe enfrenta dificuldades diárias para fazer o pedido de marmitex para o almoço, causando perda de tempo e estresse.
-
+O projeto visa criar uma plataforma que facilite a comunicação entre restaurantes, pequenas e médias empresas.
 
 ### **Objetivo**
 
@@ -40,6 +36,9 @@ Criar uma plataforma que facilite a comunicação entre restaurantes e empresas,
 
 > Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Produtividade e Colaboração entre as empresas, os restaurantes e os funcionários.
 
+### **Dor do Usuário**
+
+Um membro da nossa equipe enfrenta dificuldades diárias para fazer o pedido de marmitex para o almoço, causando perda de tempo e estresse.
 
 A partir desta ideia, o aplicativo utiliza de uma API desenvolvida para cadastrar produtos, funcionários, empresas, e restaurantes sendo permitida a consulta, inclusão, mudança e exclusão de cada um.
 

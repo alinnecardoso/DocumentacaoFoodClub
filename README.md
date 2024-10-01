@@ -65,11 +65,11 @@ As documentações deste projeto possuem mais detalhes do planejamento e da arqu
 
 | Função | Nome | GitHub |
 | --- | --- | --- |
-|  | Alinne Martins Cardoso | <a href=# > <img src="https://skillicons.dev/icons?i=github /> </a> |
-|  | Bruno Henrique Pasqual | <a href=# > <img src="https://skillicons.dev/icons?i=github /> </a> |
-| | Maycon Sanches B. de Moura | <a href=# > <img src="https://skillicons.dev/icons?i=github /> </a> |
-| | Pietro Adrian R. Da Silva | <a href=# > <img src="https://skillicons.dev/icons?i=github /> </a> |
-| | Rafael Martins Cardoso | <a href=# > <img src="https://skillicons.dev/icons?i=github /> </a> |
+|  | Alinne Martins Cardoso | [![GitHub Badge](https://img.shields.io/badge/-Alinne%20Martins%20Cardoso-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/alinne-martins)](https://github.com/alinnecardoso) |
+|  | Bruno Henrique Pasqual | [![GitHub Badge](https://img.shields.io/badge/-Bruno%20Henrique%20Pasqual-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/bruno-pasqual)](https://github.com/Bruno-Pasqual) |
+| | Maycon Sanches B. de Moura | [![GitHub Badge](https://img.shields.io/badge/-Maycon%20Sanches%20B.%20de%20Moura-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/maycon-moura)](https://github.com/MayconBasilio) |
+| | Pietro Adrian R. Da Silva | [![GitHub Badge](https://img.shields.io/badge/-Pietro%20Adrian%20R.%20Da%20Silva-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/pietro-adrian)](https://github.com/pietro-adrian) |
+| | Rafael Martins Cardoso | [![GitHub Badge](https://img.shields.io/badge/-Rafael%20Martins%20Cardoso-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/rafael-martins)](https://github.com/rafacardoso17) |
 
 ### 🪪 Licença
 

@@ -6,7 +6,7 @@
 
 O projeto visa criar uma plataforma que facilite a comunicação entre restaurantes, pequenas e médias empresas. A ideia é permitir que os donos das empresas e seus funcionários escolham facilmente onde desejam pedir o almoço. A plataforma propõe uma “lista de chamada” para que os funcionários possam selecionar suas opções diretamente do menu do restaurante escolhido. Além disso, as empresas terão a opção de fechar prazos maiores com o mesmo restaurante, garantindo preços melhores.
 
-Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Produtividade e Colaboração entre funcionários da instituição
+> Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Produtividade e Colaboração entre as empresas, os restaurantes e os funcionários.
 
 Devido a observação de um dos membros da nossa equipe que enfrenta dificuldades diárias na empresa onde trabalha para fazer o pedido de marmitex para o almoço, o sistema tem a proposta de criar uma “lista de chamada” para os funcionários escolherem suas opções do dia direto do menu do restaurante escolhido, as empresas terão mais de uma opção de onde poderão escolher o menu e também poderão fechar prazos maiores com o mesmo restaurante e, desta forma, garantir preços melhores. Além disso, será possível auxiliar os restaurantes que buscam angariar uma quantidade maior de clientes, disponibilizando seus produtos de forma online.
 

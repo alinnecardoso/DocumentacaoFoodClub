@@ -65,10 +65,11 @@ As documentações deste projeto possuem mais detalhes do planejamento e da arqu
 
 | Função | Nome | GitHub |
 | --- | --- | --- |
-| Product Owner | Paulo César Ap. Q. V. Victório | GitHub Badge |
-| Scrum Master | Felipe Thiago da Silva | GitHub Badge |
-| Dev Team | Thiago Saldanha Diegoli | GitHub Badge |
-| Dev Team | Eduardo Brando Almeida | GitHub Badge |
+|  | Alinne Martins Cardoso | <a href=# > <img src="https://skillicons.dev/icons?i=github /> </a> |
+|  | Bruno Henrique Pasqual | <a href=# > <img src="https://skillicons.dev/icons?i=github /> </a> |
+| | Maycon Sanches B. de Moura | <a href=# > <img src="https://skillicons.dev/icons?i=github /> </a> |
+| | Pietro Adrian R. Da Silva | <a href=# > <img src="https://skillicons.dev/icons?i=github /> </a> |
+| | Rafael Martins Cardoso | <a href=# > <img src="https://skillicons.dev/icons?i=github /> </a> |
 
 ### 🪪 Licença
 

@@ -12,24 +12,23 @@ O projeto visa criar uma plataforma que facilite a comunicação entre restauran
 Criar uma plataforma que facilite a comunicação entre restaurantes e empresas, permitindo que donos de empresas e funcionários escolham facilmente onde desejam pedir o almoço.
 
 
-### **Funcionalidades** 🚀
+### 🚀 **Funcionalidades**
 
+* **Lista de Chamada**: Funcionários escolhem suas opções de almoço diretamente do menu online do restaurante.
 
-* **Lista de Chamada**: Funcionários escolhem suas opções de almoço diretamente do menu online do restaurante. 👨‍💻➡️🍕
+* **Múltiplas Opções de Restaurantes**: Empresas podem escolher entre diversos restaurantes parceiros.
 
-* **Múltiplas Opções de Restaurantes**: Empresas podem escolher entre diversos restaurantes parceiros. 🏢➕🍣➕🍝
+* **Prazos e Preços Negociados**: Empresas podem fechar contratos com restaurantes para garantir preços melhores em pedidos frequentes.
 
-* **Prazos e Preços Negociados**: Empresas podem fechar contratos com restaurantes para garantir preços melhores em pedidos frequentes. 🤝💰
-
-* **Visibilidade para Restaurantes**: Plataforma serve como vitrine online para restaurantes expandirem sua base de clientes. 📈🏢
+* **Visibilidade para Restaurantes**: Plataforma serve como vitrine online para restaurantes expandirem sua base de clientes.
 
 
 ### **Recursos** 🧰
 
 
-* **Lista de Chamada**: Lista de chamada para seleção de opções do menu do restaurante escolhido. ✅
+* **Lista de Chamada**: Lista de chamada para seleção de opções do menu do restaurante escolhido.
 
-* **Opção de Prazos Maiores**: Opção de fechar prazos maiores com o mesmo restaurante para garantir preços melhores. 📅💰
+* **Opção de Prazos Maiores**: Opção de fechar prazos maiores com o mesmo restaurante para garantir preços melhores.
 
 
 ### **Metodologia**

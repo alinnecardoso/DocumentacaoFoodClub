@@ -47,7 +47,7 @@ A equipe foi dividida entre as áreas de **frontend** e **backend**, com respons
 
 ## 🔗 Links Úteis
 - Repositórios:  
-  - Frontend: [Acesse aqui](#)  
-  - Documentação: [Acesse aqui](#)
+  - Frontend: [Acesse aqui](https://github.com/Bruno-Pasqual/foodClub/tree/master/client)  
+  - Documentação: [Acesse aqui](https://github.com/Bruno-Pasqual/foodClub)
 
 → [Voltar ao topo](#topo)

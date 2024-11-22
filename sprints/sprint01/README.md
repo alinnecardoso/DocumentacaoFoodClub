@@ -8,11 +8,11 @@ O projeto **FoodClub** tem como objetivo criar uma plataforma que facilite a int
 
 ## 🎯 Objetivos da Sprint
 Os principais requisitos desta sprint foram:  
-- **Criar Página de Cadastro:** Estruturar e implementar a interface para novos usuários se cadastrarem.  
-- **Formulário de Cadastro:** Desenvolver o formulário funcional para entrada de dados no cadastro.  
-- **Validação de Dados no Frontend:** Implementar a validação de dados diretamente no frontend para maior usabilidade.  
-- **Página de Login:** Construir a página de login com autenticação inicial.  
-- **Formulário de Login:** Criar o formulário funcional para entrada de credenciais.  
+- [RF01] **Criar Página de Cadastro:** Estruturar e implementar a interface para novos usuários se cadastrarem.  
+- [RF02] **Formulário de Cadastro:** Desenvolver o formulário funcional para entrada de dados no cadastro.  
+- [RF03] **Validação de Dados no Frontend:** Implementar a validação de dados diretamente no frontend para maior usabilidade.  
+- [RF04] **Página de Login:** Construir a página de login com autenticação inicial.  
+- [RF05] **Formulário de Login:** Criar o formulário funcional para entrada de credenciais.  
 
 ---
 
@@ -38,13 +38,10 @@ As páginas desenvolvidas foram testadas e integradas ao protótipo inicial. Al�
 ---
 
 ## 📊 Métricas do Time
-Para acompanhar o desempenho, o **Burndown Chart** mostrou a evolução da sprint:  
 
-<div align="center">
-    <img src="https://via.placeholder.com/800x400.png?text=Burndown+Chart" alt="Gráfico Burndown">
-</div>
-
-A divisão de tarefas foi clara, com a equipe de **frontend** responsável por toda a estrutura e validação das páginas.
+A equipe foi dividida entre as áreas de **frontend** e **backend**, com responsabilidades claras:  
+- **Frontend:** Desenvolvimento da interface em React e integração inicial.  
+- **Backend:** Configuração dos microsserviços em Node.js e estruturação do banco de dados MongoDB. 
 
 ---
 

@@ -1,48 +1,57 @@
-<span id="topo"> <h1 align="center">Sprint 1: 01/08/2024 a 22/08/2024</h1> <p align="center"> <a href="#objetivos">Objetivos da Sprint</a> &nbsp;|&nbsp; <a href="#entregas">Entregas</a> &nbsp;|&nbsp; <a href="#metricas">Métricas do Time</a> &nbsp;|&nbsp; <a href="#links">Links Úteis</a> </p>
+# Sprint 1: 01/08/2024 a 21/08/2024
 
-O projeto FoodClub busca facilitar a comunicação entre restaurantes e empresas, criando uma plataforma intuitiva para simplificar pedidos de almoço e negociações entre empresas e restaurantes. Durante a Sprint 01, o foco foi a implementação do fluxo inicial para cadastro de usuários, empresas, restaurantes e cardápios, além do desenvolvimento do protótipo no Figma para alinhamento com os requisitos levantados.
-<span id="objetivos">
-:dart: Objetivos da Sprint
+[🎯 Objetivos da Sprint](#objetivos) | [✅ Entregas](#entregas) | [📊 Métricas do Time](#metricas) | [🔗 Links Úteis](#links)
 
-Nesta sprint, foram priorizados os seguintes requisitos funcionais e não funcionais:
+O projeto **FoodClub** tem como objetivo criar uma plataforma que facilite a interação entre restaurantes e empresas, simplificando o processo de escolha e pedido de refeições. Na **primeira sprint**, focamos em estruturar a base do projeto com funcionalidades essenciais para o fluxo de cadastro de empresas, funcionários e restaurantes, além de permitir a seleção de refeições e gestão básica de pedidos.
 
-    RF 01: Cadastro de usuários (empresas, funcionários, restaurantes).
-    RF 02: Listagem de cardápios com integração básica.
-    RF 03: Registro e consulta de pedidos realizados.
-    RNF 01: Uso de TypeScript e React no front-end.
-    RNF 02: Integração com banco de dados MongoDB.
+---
 
-<span id="entregas">
-:heavy_check_mark: Entregas
+## 🎯 Objetivos da Sprint
+Os principais requisitos atendidos durante esta sprint foram:  
+- **RF 01:** Cadastro e gerenciamento de empresas, funcionários e restaurantes.  
+- **RF 02:** Menu interativo para seleção de refeições pelos funcionários.  
+- **RNF 03:** Utilização de tecnologias modernas como **React**, **Node.js**, e **MongoDB**.  
+- **RNF 04:** Integração inicial entre frontend e backend.  
 
-A equipe produziu e validou os seguintes itens:
+---
 
-    Protótipo inicial: Um protótipo de alta fidelidade desenvolvido no Figma, validado com stakeholders.
-        Acesse o protótipo aqui.
+## ✅ Entregas
+Durante a sprint, as seguintes atividades foram realizadas:  
 
-    Funcionalidades desenvolvidas:
-        Cadastro de empresas, funcionários e restaurantes.
-        Exibição de cardápios básicos.
-        Registro de pedidos simulados.
+### 📌 **Planejamento e Prototipagem**  
+Criamos o **backlog do produto** e **user stories**, com base nas reuniões iniciais com stakeholders. Também desenvolvemos um protótipo no **Figma**, validado pela equipe e cliente, que pode ser acessado no link: [Protótipo no Figma](#).  
 
-    Documentação técnica:
-        Estrutura inicial de backlogs e user stories.
-        Diagrama básico de classes do sistema.
+### 📌 **Desenvolvimento Funcional**  
+Implementamos as funcionalidades principais:  
+1. Cadastro e autenticação de empresas, funcionários e restaurantes.  
+2. Listagem e detalhamento de cardápios para empresas e funcionários.  
+3. Integração inicial para pedidos com controle de status (pendente, processado, entregue).  
 
-<div align="center"> <img src="./demo.gif" alt="Demonstração do protótipo" /> </div> <span id="metricas">
-:chart_with_upwards_trend: Métricas do Time
+<details>
+   <summary>👨‍💻 Demonstração</summary>
+   <img src="https://via.placeholder.com/800x400.png?text=Demo+do+Prot%C3%B3tipo+ou+Funcionalidade" alt="Demonstração do protótipo">
+</details>  
 
-A equipe foi dividida em duas frentes principais:
+---
 
-    Frontend: Criação de telas e integração inicial com o back-end.
-    Backend: Desenvolvimento de APIs e configuração do banco de dados.
+## 📊 Métricas do Time
+Para medir a produtividade da equipe, utilizamos o gráfico **Burndown**, que demonstrou o progresso diário ao longo da sprint:  
 
-O progresso da Sprint foi monitorado através de um gráfico Burndown, que acompanhou o cumprimento das tarefas planejadas:
-<div align="center"> <img src="./burndown-chart.png" alt="Gráfico Burndown da Sprint 1" /> </div> <span id="links">
-:link: Links Úteis
+<div align="center">
+    <img src="https://via.placeholder.com/800x400.png?text=Burndown+Chart" alt="Gráfico Burndown">
+</div>
 
-    Protótipo no Figma: Clique aqui.
-    Repositório do projeto no GitHub: Clique aqui.
-    Sistema funcional (demonstração): Clique aqui.
+A equipe foi dividida entre as áreas de **frontend** e **backend**, com responsabilidades claras:  
+- **Frontend:** Desenvolvimento da interface em React e integração inicial.  
+- **Backend:** Configuração dos microsserviços em Node.js e estruturação do banco de dados MongoDB.  
 
-→ Voltar ao topo
+---
+
+## 🔗 Links Úteis
+- Protótipo: [Link do Figma](#)  
+- Repositórios:  
+  - Frontend: [Acesse aqui](#)  
+  - Backend: [Acesse aqui](#)  
+  - Documentação: [Acesse aqui](#)
+
+→ [Voltar ao topo](#topo)

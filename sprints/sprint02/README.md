@@ -1,31 +1,61 @@
 <span id="topo">
 
-<h1 align="center">Sprint 1: 25/03/2022 a 14/04/2022</h1>
+<h1 align="center">Sprint 2: 31/10/2024 a 22/11/2024</h1>
 
 <p align="center">
-    <a href="#objetivos">Objetivos da sprint</a> &nbsp |&nbsp &nbsp
-    <a href="#entregas">Entregas</a> &nbsp |&nbsp &nbsp
-    <a href="#metricas">Métricas do time</a> &nbsp |&nbsp &nbsp
-    <a href="#links">Links úteis</a>
+    <a href="#objetivos">🎯 Objetivos da Sprint</a> &nbsp |&nbsp &nbsp
+    <a href="#entregas">✅ Entregas</a> &nbsp |&nbsp &nbsp
+    <a href="#metricas">📊 Métricas do Time</a> &nbsp |&nbsp &nbsp
+    <a href="#links">🔗 Links Úteis</a>
 </p>
 
-O projeto se baseia no desenvolvimento de um site para Help Desk, que consiste em um sistema com funcionalidades de gerenciamento de usuários, chamados, geração de relatórios, entre outras ações do contexto. Tendo em mente o MVP, a primeira sprint se deu com a criação de um fluxo básico de criação de usuários, login e listagem de chamados, bem como o acompanhamento desses chamados com sua abertura, análise e fechamento. Para isso, foram levantados e validados os requisitos e o protótipo, construindo os serviços e interfaces visando uma entrega de grande valor condizente com a dor do cliente.
-
+---
 <span id="objetivos">
-    
-## :dart: Objetivos da Sprint
-Os requisitos (tanto do cliente como da instituição de ensino) abrangidos por essa sprint são:
-- **RF 01:** Registro e acompanhamento de chamados
-- **RF 02:** Cadastro e login de usuários
-- **RNF 06:** Utilizar Java e TypeScript
-- **RNF 07:** Utilizar banco de daos NoSQL
+  
+## 🎯 Objetivos desta Sprint
+
+Na **segunda sprint**, o objetivo é organizar a documentação completa do projeto no Github, incluindo informações sobre os integrantes, sprints, backlogs, users stories e links úteis, além de desenvolver a Página Inicial com navegação acessível para todos os usuários.
+
+---
+Os principais requisitos desta sprint foram: 
+- **Documentar no Github:**
+  - Criar o Readme
+  - Incluir nomes dos integrantes do grupo
+  - Criar os Sprints
+  - Incluir as Gifs da apresentação final do sistema
+  - Backlogs
+  - Users Stories
+  - Adicionar o link do figma dentro da parte referente ao protótipo
+  - Adicionar o link para download da documentação (formato .doc e doc de IHC)
+  - Links úteis como link dos sitema funcional e do repositório do Github
+  - Definir a função de cada integrante do grupo
+- **Acesso à pagina Inicial:**
+  - Critério de aceitação: A navegação deve segiur as diretrizes de acessibilidade (WCAG), permitindo navegação por teclado e suporte a leitores de tela.
+  - Tarefa: Garantir que a navegação do sistema seja acessível para todos os usuários, incluíndo aqueles que tenham alguma deficuldade e ou deficiencia.
 
 <span id="entregas">
         
-## :heavy_check_mark: Entregas
-Para entregas da sprint, tivemos os artefatos SCRUM validados, como Backlog do Produto, Backlog das Sprints e User Stories, através de comunicação direta entre o P.O. e o cliente. Para observar esses artefatos, acesse [este link](hhttps://github.com/The-Bugger-Ducks/help-duck-documentation#dart-backlogs--user-stories).
+## ✅ Entregas
+As seguintes atividades foram realizadas durante esse sprint:  
 
-Para extrair e entender os desejos do cliente, foi construído um protótipo inicial no Figma, criando a identidade visual e design do sistema e apresentando para validação com o cliente, onde o resultado deste protótipo, escrito utilizando React e com a integração das funcionalidades acordadas para a primeira sprint pode ser observado a seguir:
+### 📌 **Documentação do Github**
+---
+1. **README Completo:**  
+   - Adicionado o nome dos integrantes do grupo.
+   - Documentação das sprints com objetivos e resultados.
+   - Criação de backlogs e user stories com detalhes para cada etapa.
+   - Inclusão de GIFs da apresentação final do sistema e links úteis (Figma, sistema funcional, repositório Github).
+   - Disponibilização para download da documentação geral e de IHC (em formato .doc).
+
+### 📌 **Frontend:**
+---
+1. **Página Inicial:**  
+   - Desenvolvimento da página inicial com navegação estruturada e responsiva.  
+   - Implementação de diretrizes de acessibilidade, como navegação por teclado e suporte para leitores de tela.
+
+### 📌 **Progresso:**
+---
+A  documentação foi revisada e validada para garantir consistência e clareza. A Página Inicial foi testada com ferramentas de acessibilidade para asegurar conformidade com os padrões WCAG.
 
 <div align="center">
 

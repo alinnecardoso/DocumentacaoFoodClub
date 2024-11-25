@@ -88,7 +88,7 @@ A equipe manteve a divisão clara de responsabilidades:
 - Repositórios:  
   - Frontend: [Acesse aqui](https://github.com/Bruno-Pasqual/foodClub/tree/master/client)  
   - Documentação: [Acesse aqui](https://github.com/Bruno-Pasqual/foodClub)
-  - Prototipo: [Acesse aqui](https://www.figma.com/design/KVKl4BrJ0W2aGKfArKYART/Esbo%C3%A7o-projeto-foodClub?node-id=320-2&t=w2j5rkH23OhnuSrM-1)
+  - Protótipo: [Acesse aqui](https://www.figma.com/design/KVKl4BrJ0W2aGKfArKYART/Esbo%C3%A7o-projeto-foodClub?node-id=320-2&t=w2j5rkH23OhnuSrM-1)
 
 <span id="topo">
 

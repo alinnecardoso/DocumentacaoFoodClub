@@ -47,7 +47,7 @@ A partir desta ideia, o aplicativo utiliza de uma API desenvolvida para cadastra
 | Sprint | Previsão | Status | Histórico |
 | --- | --- | --- | --- |
 | 01 | 01/08/2024 | Concluído | [ver relatório](https://github.com/alinnecardoso/DocumentacaoFoodClub/tree/main/sprints/sprint01) |
-| 02 | 05/09/2024 | Concluído | ver relatório |
+| 02 | 05/09/2024 | Concluído | [ver relatório](https://github.com/alinnecardoso/DocumentacaoFoodClub/tree/main/sprints/sprint02)|
 | 03 | 10/10/2024 | Concluído | ver relatório |
 | 04 | 14/11/2024 | Concluído | ver relatório |
 

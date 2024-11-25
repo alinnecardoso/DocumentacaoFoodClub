@@ -34,6 +34,8 @@ Os principais requisitos desta sprint foram:
    - Critério de aceitação: O formulário deve estar na página e permitir que o usuário insira as informações necessárias.
    - Tarefa: Criar formulário de login para a inserção das iformações necessarias para realizar o login.
 
+→ [Voltar ao topo](#topo)
+
 ---
 
 <span id="entregas">
@@ -55,7 +57,7 @@ As seguintes atividades foram realizadas durante esse sprint:
 1. **Configuração de Microsserviços:**
    - Configuração inicial do ambiente backand utilizando Node.js, TypeScript, Swagger.
    - Desenvolvimento de uma API básicas para às funcionalidades de cadastro e login.
-   - Estruuração de endpoints iniciais para integração com o frontend.
+   - Estruturação de endpoints iniciais para integração com o frontend.
 2. **Banco de Dados MongoDB:**
    - Definição da base de dados inicial, com a criação da coleção users para armazenamento de informações de cadastro.
    - Implementação de índices para otimizar consultas, como verificação de credenciais.
@@ -65,11 +67,14 @@ As páginas desenvolvidas foram testadas e integradas ao protótipo inicial. Al�
 
 <details>
    <summary>👨‍💻 Demonstração</summary>
-   <div style="display: flex; justify-content: center; margin-top: 10px;">
-       <img src="../../assets/gif/FoodClubCadastro.gif" alt="Demonstração das páginas de Cadastro" style="max-width: 30%; height: auto;">
+   <div style="display: flex; margin-top: 10px;">
+       <img src="../../assets/gif/FoodClubCadastro.gif" alt="Demonstração das páginas de Cadastro" style="max-width: 400px; height: auto;">
+       <br>
    </div>
-</details>
 
+   → [Voltar ao topo](#topo)
+   
+</details>
 
 ---
 
@@ -77,9 +82,9 @@ As páginas desenvolvidas foram testadas e integradas ao protótipo inicial. Al�
 
 ## 📊 Métricas do Time
 
-A equipe manteve a divisão clara de responsabilidades:  
-- **Frontend:** Desenvolvimento da página inicial e testes de acessibilidade.  
-- **Documentação:** Oraganização e publicação completa do projeto no Github, com links e recursos para usuários e desenvolvedores. 
+A equipe foi dividida entre as áreas de **frontend** e **backend**, com responsabilidades claras:  
+- **Frontend:** Desenvolvimento da interface em React e integração inicial.  
+- **Backend:** Configuração dos microsserviços em Node.js e estruturação do banco de dados MongoDB. 
 
 ---
 

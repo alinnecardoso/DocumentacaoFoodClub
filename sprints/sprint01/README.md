@@ -66,7 +66,7 @@ As páginas desenvolvidas foram testadas e integradas ao protótipo inicial. Al�
 <details>
    <summary>👨‍💻 Demonstração</summary>
    <div style="display: flex; justify-content: center; margin-top: 10px;">
-       <img src="../../assets/gif/FoodClubCadastro.gif" alt="Demonstração das páginas de Cadastro" style="max-width: 50%; height: auto;">
+       <img src="../../assets/gif/FoodClubCadastro.gif" alt="Demonstração das páginas de Cadastro" style="max-width: 30%; height: auto;">
    </div>
 </details>
 

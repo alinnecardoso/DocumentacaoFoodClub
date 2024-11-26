@@ -19,19 +19,21 @@ Na **segunda sprint**, o objetivo é organizar a documentação completa do proj
 ---
 Os principais requisitos desta sprint foram: 
 - **Documentar no Github:**
-  - Criar o Readme
-  - Incluir nomes dos integrantes do grupo
-  - Criar os Sprints
-  - Incluir as Gifs da apresentação final do sistema
-  - Backlogs
-  - Users Stories
-  - Adicionar o link do figma dentro da parte referente ao protótipo
-  - Adicionar o link para download da documentação (formato .doc e doc de IHC)
-  - Links úteis como link dos sitema funcional e do repositório do Github
-  - Definir a função de cada integrante do grupo
+  - Tarefa: 
+    - Criar o Readme
+    - Incluir nomes dos integrantes do grupo
+    - Criar os Sprints
+    - Incluir as Gifs da apresentação final do sistema
+    - Backlogs
+    - Users Stories
+    - Adicionar o link do figma dentro da parte referente ao protótipo
+    - Adicionar o link para download da documentação (formato .doc e doc de IHC)
+    - Links úteis como link dos sitema funcional e do repositório do Github
+    - Definir a função de cada integrante do grupo
 - **Acesso à pagina Inicial:**
   - Critério de aceitação: A navegação deve segiur as diretrizes de acessibilidade (WCAG), permitindo navegação por teclado e suporte a leitores de tela.
-  - Tarefa: Garantir que a navegação do sistema seja acessível para todos os usuários, incluíndo aqueles que tenham alguma deficuldade e ou deficiencia.
+  - Tarefa: 
+    - Garantir que a navegação do sistema seja acessível para todos os usuários, incluíndo aqueles que tenham alguma deficuldade e ou deficiencia.
 
 <span id="entregas">
         

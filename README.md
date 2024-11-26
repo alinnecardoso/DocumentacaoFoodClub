@@ -48,8 +48,8 @@ A partir desta ideia, o aplicativo utiliza de uma API desenvolvida para cadastra
 | --- | --- | --- | --- |
 | 01 | 01/08/2024 | Concluído | [ver relatório](https://github.com/alinnecardoso/DocumentacaoFoodClub/tree/main/sprints/sprint01) |
 | 02 | 05/09/2024 | Concluído | [ver relatório](https://github.com/alinnecardoso/DocumentacaoFoodClub/tree/main/sprints/sprint02)|
-| 03 | 10/10/2024 | Concluído | ver relatório |
-| 04 | 14/11/2024 | Concluído | ver relatório |
+| 03 | 10/10/2024 | Concluído | [ver relatório](https://github.com/alinnecardoso/DocumentacaoFoodClub/tree/main/sprints/sprint03)|
+| 04 | 14/11/2024 | Concluído | [ver relatório](https://github.com/alinnecardoso/DocumentacaoFoodClub/tree/main/sprints/sprint04) |
 
 ## 🎬 Apresentação Final
 Confira a seguir uma demonstração das funcionalidades para cada tipo de usuário do sistema:
@@ -70,7 +70,7 @@ Confira a seguir uma demonstração das funcionalidades para cada tipo de usuár
 
 ## Protótipo e Documentação
 
-### 🏠 Protótipo
+### 🏠 Protótipo 
 
 Com base nos dados coletados em pesquisas, foi possível montar um protótipo de alta fidelidade com o uso da ferramenta Figma. Esta ferramenta possibilitou uma visualização prévia do front-end do projeto, o suficiente para obter o alinhamento entre a equipe de desenvolvimento e o cliente. Desta forma, o projeto prototipado possui algumas funções básicas de acesso a telas e respostas a cliques em botões, posteriormente sendo funcionalidades aplicadas na própria aplicação. O acesso ao protótipo pode ser feito aqui
 

@@ -1,6 +1,6 @@
 <span id="topo">
 
-<h1 align="center">Sprint 23: 01/11/2024 a 22/11/2024</h1>
+<h1 align="center">Sprint 3: 01/11/2024 a 22/11/2024</h1>
 
 <p align="center">
     <a href="#objetivos">🎯 Objetivos da Sprint</a> &nbsp |&nbsp &nbsp
@@ -14,20 +14,16 @@
 
 ## 🎯 Objetivos desta Sprint
 Na **terceira sprint**, o o foco foi migrar o frontend de JavaScript para TypeScript, melhorando a qualidade e segurança do código. Além disso, avançamos na integração com o backend, garantindo que os formulários de login e cadastro se comunicassem corretamente com a API, fornecendo feedback apropriado aso usuários.
-
----
-Os principais requisitos desta sprint foram:  
-- **[RT01] Migração para TypeScript:**
-   - Motivo: Melhorar a qualidade do código e a segurança, com o uso de tipagem estática e recursos avançados.
-   - Tarefa: Refatorar os componentes do frontend de JavaScript para TypeScript, assegurando que todo o código atenda os padrões do TypeScript.
 - **[RF06] Integração com o Backend para Subimissão do Login:**
     - Descrição: Permitir que os dados do formulário de login sejam enviados ao backend e que o usuário receba feedback apropriado.
     - Critério de Aceitação: Os dados devem ser corretamente transmitidos via API para o servidor, e o feedback de sucesso ou falha da operação deve ser exibido ao usuário.
-    - Tarefa: Implementar a integração do formulário de login com o backend utilizando requisição API.
+    - Tarefa: 
+        - Implementar a integração do formulário de login com o backend utilizando requisição API.
 - **[RF07] Integração com o Backend para Submissão do Cadastro:**
     - Descrição: Conectar o formulário de cadastro ao backend, garantindo que os dados sejam enviados corretamente e tratados.
     - Critério de Aceitação: Os dados do formulário devem se enviados ao servidor com sucesso, e o usuário deve receber um feedback sobre o status da operação.
-    - Tarefa: Conectar o formulário de cadastro ao backend via API, validando o feedback recebido.
+    - Tarefa: 
+        - Conectar o formulário de cadastro ao backend via API, validando o feedback recebido.
 
 → [Voltar ao topo](#topo)
 

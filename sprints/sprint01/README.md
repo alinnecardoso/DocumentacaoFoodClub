@@ -20,19 +20,24 @@ Na **primeira sprint**, o objetivo é estabelecer as funcionalidades básicas de
 Os principais requisitos desta sprint foram:  
 - **[RF01] Criar Página de Cadastro:** Estruturar e implementar a interface para novos usuários se cadastrarem.
    - Critério de aceitação: A pagina deve ser acessível a partir da página inicial e permitir que o usuário insira suas informações necessárias para criação do seu perfil.
-   - Tarefa: Implementar a pagina de cadastro de usuários, permitindo que os usuários criem suas contas e acessem a plataforma.
+   - Tarefa: 
+      - Implementar a pagina de cadastro de usuários, permitindo que os usuários criem suas contas e acessem a plataforma.
 - **[RF02] Formulário de Cadastro:** Desenvolver o formulário funcional para entrada de dados no cadastro.
    - Critério de aceitação: O formulário deve estar na página de cadastro e permitir que o usuário insira seus dados.
-   - Tarefa: Criar um formulario de cadastro para que o usuário cadastre as informações necessárias para a criação do perfil.
+   - Tarefa: 
+      - Criar um formulario de cadastro para que o usuário cadastre as informações necessárias para a criação do perfil.
 - **[RF03] Validação de Dados no Frontend:** Implementar a validação de dados diretamente no frontend para maior usabilidade.
    - Critério de aceitação: A validação deve garantir que os dados inseridos no formulário de cadastro atendam aos requisitos esperados (e.g., formato de e-mail válido, senha com critérios mínimos, campos obrigatórios preenchidos) antes do envio.
-   - Tarefa: Desenvolver scripts de validação no frontend que forneçam feedback em tempo real para o usuário, garantindo maior precisão no preenchimento dos dados.
+   - Tarefa: 
+      - Desenvolver scripts de validação no frontend que forneçam feedback em tempo real para o usuário, garantindo maior precisão no preenchimento dos dados.
 - **[RF04] Página de Login:** Construir a página de login com autenticação inicial.
    - Critério de aceitação: A página de login deve ser acessível a partir da página inicial, permitir que o usuário insira suas credenciais (e-mail e senha) e realizar a autenticação com sucesso, redirecionando o usuário para a área restrita ou exibindo mensagens de erro em caso de falha.
-   - Tarefa: Implementar a interface e a lógica de autenticação para permitir que usuários existentes façam login em suas contas.
+   - Tarefa: 
+      - Implementar a interface e a lógica de autenticação para permitir que usuários existentes façam login em suas contas.
 - **[RF05] Formulário de Login:** Criar o formulário funcional para entrada de credenciais.
    - Critério de aceitação: O formulário deve estar na página e permitir que o usuário insira as informações necessárias.
-   - Tarefa: Criar formulário de login para a inserção das iformações necessarias para realizar o login.
+   - Tarefa: 
+      - Criar formulário de login para a inserção das iformações necessarias para realizar o login.
 
 → [Voltar ao topo](#topo)
 

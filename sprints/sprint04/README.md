@@ -71,7 +71,7 @@ As seguintes atividades foram realizadas durante esse sprint:
 ---
 O fluxo completo de recuperação de senha foi testado e validado, garantindo segurança e acessibilidade. A navegação foi integrada com sucesso, e os feedbacks de login e cadastro foram ajustados para melhorar a experiência do usuário.
 
-</div>
+</div> 
 
 <details>
    <summary>👨‍💻 Demonstração</summary>

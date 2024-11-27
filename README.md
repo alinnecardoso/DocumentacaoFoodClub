@@ -68,6 +68,10 @@ Confira a seguir uma demonstração das funcionalidades para cada tipo de usuár
 
 ## 👷 Backlogs & User Stories
 
+<img src="./assets/img/Backlog.png">
+<img src="./assets/img/BacklogDasSprints.png">
+<img src="./assets/img/UsersStories.png">
+
 ## Protótipo e Documentação
 
 ### 🏠 Protótipo 

@@ -68,11 +68,9 @@ Confira a seguir uma demonstração das funcionalidades para cada tipo de usuár
 
 ## 👷 Backlogs & User Stories
 
-<div style="background-color:#fff">
-  <img src="./assets/img/Backlog.png">
-  <img src="./assets/img/BacklogDasSprints.png">
-  <img src="./assets/img/UsersStories.png">
-</div>
+<img src="./assets/img/Backlog.png">
+<img src="./assets/img/Backlog das Sprints.png">
+<img src="./assets/img/User Stories.png">
 
 ## Protótipo e Documentação
 

@@ -80,7 +80,7 @@ Com base nos dados coletados em pesquisas, foi possível montar um protótipo de
 
 ### 📄 Documentação
 
-As documentações deste projeto possuem mais detalhes do planejamento e da arquitetura do software. Elas podem ser acessadas pelos links: [Documentação do projeto](#) E [Documentação ihc](#).
+As documentações deste projeto possuem mais detalhes do planejamento e da arquitetura do software. Elas podem ser acessadas pelos links: [Documentação do projeto](https://github.com/user-attachments/files/17894084/Projeto.Interdisciplinar.-.FoodClub.pdf) E [Documentação ihc](https://www.figma.com/proto/4uxN0iR5oVJuGYjuRZjTRc/PII---teste?node-id=44-14&t=S29QzT4LJsbFp4Ll-1).
 
 > ## Links Uteis
 > * [Link do sistema funcional](#)

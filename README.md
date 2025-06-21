@@ -82,6 +82,21 @@ Com base nos dados coletados em pesquisas, foi possível montar um protótipo de
 
 As documentações deste projeto possuem mais detalhes do planejamento e da arquitetura do software. Elas podem ser acessadas pelos links: [Documentação do projeto](https://github.com/user-attachments/files/17894084/Projeto.Interdisciplinar.-.FoodClub.pdf) E [Documentação ihc](https://www.figma.com/proto/4uxN0iR5oVJuGYjuRZjTRc/PII---teste?node-id=44-14&t=S29QzT4LJsbFp4Ll-1).
 
+---
+
+#### ⚙️ Documentação Técnica - Execução Local do Projeto
+
+Este subtópico contém instruções específicas para desenvolvedores que desejam executar o projeto localmente. Inclui:
+
+- Etapas de instalação de dependências
+- Migrações e seeders
+- Inicialização do backend
+- Dados de login de usuários de teste para cada tipo (restaurant, company, employee)
+
+🔗 Acesse aqui a documentação técnica completa:  
+[📂 execucao-local.md na branch `docs`](https://github.com/Bruno-Pasqual/foodClub/blob/docs/docs/execucao-local.md)
+
+
 > ## Links Uteis
 > * [Link do sistema funcional](https://food-club-9b38.vercel.app/)
 > * [Repositório do projeto](https://github.com/Bruno-Pasqual/foodClub)

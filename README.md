@@ -1,4 +1,5 @@
-<div style="width: 100%; height: 8px; background-color: #7D0000; margin-bottom: 20px;"></div>
+![Faixa vermelha](assets/banner/ChatGPT Image 21 de jun. de 2025, 20_17_54.png)
+
 
 
 # Projeto Integrador FoodClub

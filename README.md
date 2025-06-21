@@ -1,4 +1,4 @@
-![Faixa vermelha](assets/banner/ChatGPT Image 21 de jun. de 2025, 20_17_54.png)
+![Faixa vermelha](https://github.com/alinnecardoso/DocumentacaoFoodClub/blob/main/assets/banner/banner.png)
 
 
 

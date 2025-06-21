@@ -1,3 +1,6 @@
+<div style="width: 100%; height: 8px; background-color: #7D0000; margin-bottom: 20px;"></div>
+
+
 # Projeto Integrador FoodClub
 
 #### [Sobre](#-Sobre) | [Backlogs & User Stories](#-backlogs--user-stories) | [Protótipo & Documentação](#protótipo-e-documentação) | [Links Uteis](#links-uteis) | [Tecnologias](#%EF%B8%8F-tecnologias-utilizadas) | [Equipe](#-equipe)

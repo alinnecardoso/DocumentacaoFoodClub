@@ -1,29 +1,29 @@
-Claro! Aqui está o conteúdo formatado em **Markdown**:
+# 📝 Guia de Execução Local do Projeto Integrador
 
-````markdown
-# 📦 Instruções para Execução do Projeto Integrador Localmente
+Este documento tem como objetivo orientar os desenvolvedores na **configuração local do ambiente** e **acesso ao sistema** do Projeto Integrador. Ele fornece os comandos necessários para iniciar o backend e uma lista de credenciais de acesso para testes com diferentes tipos de usuários (restaurantes, empresas e funcionários).
 
-## 🚀 Backend
+---
+
+## 📦 Instruções para Execução do Projeto Integrador Localmente
+
+### 🚀 Backend
 
 1. Instale as dependências:
    ```bash
    npm install
-````
+   ```
 
 2. Rode as migrações do banco de dados:
-
    ```bash
    npx sequelize-cli db:migrate
    ```
 
 3. Rode os seeders:
-
    ```bash
    npx sequelize-cli db:seed:all
    ```
 
 4. Inicie a aplicação:
-
    ```bash
    npm run start
    ```
@@ -35,7 +35,6 @@ Claro! Aqui está o conteúdo formatado em **Markdown**:
 Use os e-mails e senhas abaixo para acessar o sistema com diferentes tipos de usuários:
 
 ### 👨‍🍳 Usuários do tipo `restaurant`
-
 Senha padrão: **`restaurante123`**
 
 | E-mail                                                    | Tipo de Usuário |
@@ -50,7 +49,6 @@ Senha padrão: **`restaurante123`**
 ---
 
 ### 🏢 Usuários do tipo `company`
-
 Senha padrão: **`empresa123`**
 
 | E-mail                                                  | Tipo de Usuário |
@@ -62,7 +60,6 @@ Senha padrão: **`empresa123`**
 ---
 
 ### 👩‍💼 Usuários do tipo `employee`
-
 Senha padrão: **`funcionario123`**
 
 | E-mail                                            | Tipo de Usuário |

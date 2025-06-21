@@ -6,6 +6,8 @@
 
 O projeto visa criar uma plataforma que facilite a comunicação entre restaurantes, pequenas e médias empresas.
 
+---
+
 ### 🎯 **Objetivo**
 
 
@@ -22,6 +24,7 @@ Criar uma plataforma que facilite a comunicação entre restaurantes e empresas,
 
 * **Visibilidade para Restaurantes**: Plataforma serve como vitrine online para restaurantes expandirem sua base de clientes.
 
+---
  
 ### 🧰 **Recursos**
 
@@ -30,6 +33,7 @@ Criar uma plataforma que facilite a comunicação entre restaurantes e empresas,
 
 * **Opção de Prazos Maiores**: Opção de fechar prazos maiores com o mesmo restaurante para garantir preços melhores.
 
+---
 
 ### **Metodologia**
 
@@ -40,7 +44,11 @@ Um membro da nossa equipe enfrenta dificuldades diárias para fazer o pedido de 
 
 A partir desta ideia, o aplicativo utiliza de uma API desenvolvida para cadastrar produtos, funcionários, empresas, e restaurantes sendo permitida a consulta, inclusão, mudança e exclusão de cada um.
 
+---
+
 ### 📌 Status do Projeto: ⏳ Em Andamento
+
+---
 
 ## 🏁 Entregas de Sprints
 
@@ -50,6 +58,8 @@ A partir desta ideia, o aplicativo utiliza de uma API desenvolvida para cadastra
 | 02 | 05/09/2024 | Concluído | [ver relatório](https://github.com/alinnecardoso/DocumentacaoFoodClub/tree/main/sprints/sprint02)|
 | 03 | 10/10/2024 | Concluído | [ver relatório](https://github.com/alinnecardoso/DocumentacaoFoodClub/tree/main/sprints/sprint03)|
 | 04 | 14/11/2024 | Concluído | [ver relatório](https://github.com/alinnecardoso/DocumentacaoFoodClub/tree/main/sprints/sprint04) |
+
+---
 
 ## 🎬 Apresentação Final
 Confira a seguir uma demonstração das funcionalidades para cada tipo de usuário do sistema:
@@ -66,11 +76,15 @@ Confira a seguir uma demonstração das funcionalidades para cada tipo de usuár
   Tela do Funcionário
 </details>
 
+---
+
 ## 👷 Backlogs & User Stories
 
 <img src="./assets/img/Backlog.png">
 <img src="./assets/img/Backlog das Sprints.png">
 <img src="./assets/img/User Stories.png">
+
+---
 
 ## Protótipo e Documentação
 
@@ -78,11 +92,10 @@ Confira a seguir uma demonstração das funcionalidades para cada tipo de usuár
 
 Com base nos dados coletados em pesquisas, foi possível montar um protótipo de alta fidelidade com o uso da ferramenta Figma. Esta ferramenta possibilitou uma visualização prévia do front-end do projeto, o suficiente para obter o alinhamento entre a equipe de desenvolvimento e o cliente. Desta forma, o projeto prototipado possui algumas funções básicas de acesso a telas e respostas a cliques em botões, posteriormente sendo funcionalidades aplicadas na própria aplicação. O acesso ao protótipo pode ser feito [aqui](https://www.figma.com/design/KVKl4BrJ0W2aGKfArKYART/Esbo%C3%A7o-projeto-foodClub?node-id=0-1&t=wTcwWUv2qAJQYsXa-1)
 
+
 ### 📄 Documentação
 
 As documentações deste projeto possuem mais detalhes do planejamento e da arquitetura do software. Elas podem ser acessadas pelos links: [Documentação do projeto](https://github.com/user-attachments/files/17894084/Projeto.Interdisciplinar.-.FoodClub.pdf) E [Documentação ihc](https://www.figma.com/proto/4uxN0iR5oVJuGYjuRZjTRc/PII---teste?node-id=44-14&t=S29QzT4LJsbFp4Ll-1).
-
----
 
 #### ⚙️ Documentação Técnica - Execução Local do Projeto
 
@@ -94,14 +107,15 @@ Este subtópico contém instruções específicas para desenvolvedores que desej
 - Dados de login de usuários de teste para cada tipo (restaurant, company, employee)
 
 🔗 Acesse aqui a documentação técnica completa:  
-[📂 execucao-local.md na branch `docs`](https://github.com/Bruno-Pasqual/foodClub/blob/docs/docs/execucao-local.md)
+[📂 execucao-local.md na branch `docs`](https://github.com/alinnecardoso/DocumentacaoFoodClub/tree/rules)
 
+---
 
 > ## Links Uteis
 > * [Link do sistema funcional](https://food-club-9b38.vercel.app/)
 > * [Repositório do projeto](https://github.com/Bruno-Pasqual/foodClub)
 
-
+---
 
 ## 🛠️ Tecnologias Utilizadas
 <p align="center">
@@ -109,6 +123,8 @@ Este subtópico contém instruções específicas para desenvolvedores que desej
     <img src="https://skillicons.dev/icons?i=html,css,ts,react,prisma,nodejs,mongodb,figma" />
   </a>
 </p>
+
+---
 
 ## 👥 Equipe
 

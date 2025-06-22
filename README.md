@@ -111,7 +111,7 @@ Este subtópico contém instruções específicas para desenvolvedores que desej
 - Dados de login de usuários de teste para cada tipo (restaurant, company, employee)
 
 🔗 Acesse aqui a documentação técnica completa:  
-[📂 execucao-local.md na branch `docs`](https://github.com/alinnecardoso/DocumentacaoFoodClub/tree/rules)
+[Orientação Rodar Projeto Local](https://github.com/alinnecardoso/DocumentacaoFoodClub/blob/rules/README.md)
 
 ---
 

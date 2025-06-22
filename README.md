@@ -103,15 +103,15 @@ As documentações deste projeto possuem mais detalhes do planejamento e da arqu
 
 #### ⚙️ Documentação Técnica - Execução Local do Projeto
 
-Este subtópico contém instruções específicas para desenvolvedores que desejam executar o projeto localmente. Inclui:
+Este subtópico contém instruções específicas para desenvolvedores que desejam executar o backend do projeto localmente. Inclui:
 
 - Etapas de instalação de dependências
 - Migrações e seeders
 - Inicialização do backend
 - Dados de login de usuários de teste para cada tipo (restaurant, company, employee)
 
-🔗 Acesse aqui a documentação técnica completa:  
-[Orientação Rodar Projeto Local](https://github.com/alinnecardoso/DocumentacaoFoodClub/blob/rules/README.md)
+🔗 Acesse aqui a orientação técnica para rodar o projeto local:  
+[📝 Documento](https://github.com/alinnecardoso/DocumentacaoFoodClub/blob/rules/README.md)
 
 ---
 

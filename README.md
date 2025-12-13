@@ -121,6 +121,9 @@ Com base nos dados coletados em pesquisas, foi possível montar um protótipo de
 
 As documentações deste projeto possuem mais detalhes do planejamento e da arquitetura do software. Elas podem ser acessadas pelos links: [Documentação do projeto](https://github.com/user-attachments/files/17894084/Projeto.Interdisciplinar.-.FoodClub.pdf) E [Documentação ihc](https://www.figma.com/proto/4uxN0iR5oVJuGYjuRZjTRc/PII---teste?node-id=44-14&t=S29QzT4LJsbFp4Ll-1).
 
+#### ⚙️ Diagrama AWS
+<img src="./assets/img/AWS Architecture-2025-11-02-221829.png">
+
 #### ⚙️ Documentação Técnica - Execução Local do Projeto
 
 Este subtópico contém instruções específicas para desenvolvedores que desejam executar o backend do projeto localmente. Inclui:
